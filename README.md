@@ -1,1 +1,1 @@
-# -Stock-Price-Prediction
+# Stock-Prediction-using-StackedLSTM-Model-UnivariateTimeSeries
