@@ -1,1 +1,1 @@
-# Stock-Prediction-using-StackedLSTM-Model-UnivariateTimeSeries
+# Stock Prediction using Stacked LSTM, XGBoost, Prophet and DeepAR
